@@ -15,7 +15,7 @@ or minimize it to the left / right margin of the monitor
 
 You can lock the slider to the left or right margin of the monitor.  
 
-The script supports multiple monitor.
+The script supports multiple monitors.
 
 
 ### Requirements
